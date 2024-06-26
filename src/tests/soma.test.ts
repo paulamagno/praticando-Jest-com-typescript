@@ -1,4 +1,4 @@
-import soma from './soma'
+import soma from '../soma'
 
 describe(    'Teste de soma', () => { 
     test ('deve verificar o resultado de uma soma', () => {

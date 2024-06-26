@@ -1,4 +1,4 @@
-import subtracao from './subtracao'
+import subtracao from '../subtracao'
 
 describe('Testes de subtração', () =>{
     test('deve verificar o resultado de uma subtração', () => {

@@ -1,4 +1,4 @@
-import multiplicacao from './multiplicacao'
+import multiplicacao from '../multiplicacao'
 
 describe ('Teste de multiplicação', () => {
     test ('deve verificar o resultado da multiplicação', () => {

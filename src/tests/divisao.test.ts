@@ -1,4 +1,4 @@
-import divisao from './divisao'
+import divisao from '../divisao'
 
 describe ('Teste de divisão', () => {
     test ('deve verificar o resultado da divisão', () => {
